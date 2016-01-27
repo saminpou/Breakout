@@ -12,4 +12,4 @@ run: all
 	java -classpath $(SRC) $(NAME)
 
 clean:
-	rm *.class
+	rm src/*.class
